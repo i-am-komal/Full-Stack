@@ -48,8 +48,6 @@ div {
     background-color: teal;
 }
 
-
-
 @media screen and (min-width:1000px) {
     body {
         background-color: gold;
