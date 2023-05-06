@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(164, 246, 246);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.price-container{
+    column-gap: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.price-box{
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.title{
+    color:#2b6fc7;
+    background-color: white;
+    font-size: 0.85rem;
+    font-family: 'Montserrat', sans-serif;
+    padding:5px 10px;
+}
+
+.add-to-cart{
+    background-color: #f97a30;
+    padding: 15px 20px;
+    margin: 0px 10px;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight:bolder;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+color: white;
+text-decoration: none;
+font-weight: bolder;
+}
+
+.feature{
+    text-align: left;
+    color: rgb(68, 65, 65);
+    font-size: 0.85rem;
+    padding: 3px;
+}
+
+.features{
+    margin: 12px;
+}
+
+.price-row-cancel{
+    text-decoration: line-through;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    color: rgb(127, 125, 125);
+    font-weight: bold;
+    letter-spacing: 0.1pc;
+}
+
+.price-row{
+    color:#2b6fc7;
+    letter-spacing: 0.2pc;
+    padding: 0px 30px 0px 30px;
+}
+
+.pricing{
+    font-weight: bold;
+    font-size: 1rem;
+    color:#2b6fc7;
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+    margin: 0;
+    padding: 0;
+}
+
+.price{
+    font-size: 3.7rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.rupee{
+    position: relative;
+    bottom: 22px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cross{
+    color: rgb(181, 179, 179);
+}
+
+.red{
+    color: red;
+}
+
+.add-to-cart:hover{
+    background-color: #f16b1d;
+}
