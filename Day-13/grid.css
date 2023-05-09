@@ -105,8 +105,8 @@ div{
     grid-row-end: 5;
 }
 
-.beige {
-    background-color: beige;
+.aqua {
+    background-color: aqua;
     grid-column-start: 1;
     grid-column-end: 10;
     grid-row-start: 5;
