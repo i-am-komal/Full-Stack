@@ -97,7 +97,7 @@ div{
     grid-row-end: 5;
 }
 
-.teal {
+.teal{
     background-color: teal;
     grid-column-start: 8;
     grid-column-end: 10;
@@ -105,7 +105,7 @@ div{
     grid-row-end: 5;
 }
 
-.aqua {
+.aqua{
     background-color: aqua;
     grid-column-start: 1;
     grid-column-end: 10;
