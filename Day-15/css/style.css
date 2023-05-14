@@ -1,0 +1,10 @@
+.feature-img{
+    padding: 5px;
+    width: 50px;
+}
+
+.slider-img{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
